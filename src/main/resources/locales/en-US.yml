@@ -1056,9 +1056,13 @@ protection:
       description: Toggle barrel interaction
       hint: Barrel access disabled
     CRAFTER:
-        name: Crafter
-        description: Toggle use
-        hint: Crafter access disabled
+      name: Crafter
+      description: Toggle use
+      hint: Crafter access disabled
+    DECORATED_POT:
+      name: Decorated pots
+      description: Toggle decorated pot interaction
+      hint: Decorated pot interaction disabled
     BLOCK_EXPLODE_DAMAGE:
       description: |-
         &a Allow Bed & Respawn Anchors
